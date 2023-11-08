@@ -35,7 +35,7 @@ if (num1 > num2) {
 ## **Work Experience**
 ******
 I have some projects where I try new skills.\
-    1.[Shelter](https://rolling-scopes-school.github.io/laranu-JSFE2023Q1//shelter/pages/main/)
+    1.[Shelter](https://rolling-scopes-school.github.io/laranu-JSFE2023Q1//shelter/pages/main/)\
     2.[Plants](https://rolling-scopes-school.github.io/laranu-JSFEPRESCHOOL2022Q4/plants/)
 
 ## **Education and Courses**
